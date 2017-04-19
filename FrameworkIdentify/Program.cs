@@ -138,8 +138,7 @@ namespace FrameworkIdentify
             }
 
             Console.WriteLine();
-            Exportar();
-            Console.WriteLine();
+            Exportar();            
             Console.ReadKey();
         }
 
