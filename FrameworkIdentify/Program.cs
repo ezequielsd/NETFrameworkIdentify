@@ -17,6 +17,9 @@ namespace FrameworkIdentify
 
         static void Main(string[] args)
         {
+
+            Console.WriteLine(" Coletando informações, aguarde...");
+
             SystemInfo system = GetSystemInfo();
 
           
